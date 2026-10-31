@@ -1,0 +1,5 @@
+time_bucket,revenue,transaction_records,quantity_sold
+Morning,388288.67,81751.0,117629.0
+Afternoon,204720.83,44427.0,63840.0
+Evening,105802.83,22938.0,33001.0
+Late hours,,,
